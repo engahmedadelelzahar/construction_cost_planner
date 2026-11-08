@@ -1,0 +1,9 @@
+element_id,element_name,site,length_m,width_m,height_m,waste_pct
+E01,Footing F1,Site A,2.5,2.5,0.6,5
+E02,Column C1,Site A,0.4,0.4,3.0,4
+E03,Beam B1,Site A,6.0,0.3,0.5,5
+E04,Slab S1,Site A,8.0,5.0,0.15,6
+E05,Footing F2,Site B,3.0,3.0,0.7,5
+E06,Wall W1,Site B,10.0,0.25,3.0,7
+E07,Slab S2,Site B,12.0,6.0,0.2,6
+E08,Column C2,Site B,0.5,0.5,3.5,4
