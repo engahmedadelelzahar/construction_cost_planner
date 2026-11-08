@@ -1,7 +1,7 @@
 # Construction Materials Cost Planner
 
-**Student:** [Your Name]
-**Course / Assignment:** Assignment 02 - Construction Materials Cost Planner
+**Student:** Ahmed adel.
+**Assignment:** Assignment 02 - Construction Materials Cost Planner
 
 ## Project description
 A Python console application with two connected modules, joined by a menu in `main.py`.
