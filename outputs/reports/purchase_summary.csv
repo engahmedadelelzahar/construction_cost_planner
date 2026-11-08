@@ -1,0 +1,9 @@
+site,supplier_id,month,cost
+Site A,S01,2026-08,172.6
+Site A,S01,2026-09,53.6
+Site A,S02,2026-08,118.78
+Site A,S02,2026-09,367.35
+Site B,S01,2026-08,338.15
+Site B,S01,2026-09,1103.65
+Site B,S02,2026-08,70.32
+Site B,S02,2026-09,95.9

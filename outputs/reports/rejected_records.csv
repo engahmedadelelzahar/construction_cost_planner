@@ -1,0 +1,6 @@
+record_type,record_id,reason
+purchase,T009,Duplicate transaction_id
+purchase,T012,Missing quantity
+purchase,T014,Missing quantity
+purchase,T025,Duplicate transaction_id
+purchase,T027,Missing quantity

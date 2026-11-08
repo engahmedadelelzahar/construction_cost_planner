@@ -1,0 +1,8 @@
+case,type,expected,actual,result
+V1 Quantities for element E01,valid,"(3.75, 3.9375, 1181.25, 1.97, 3.15)","(3.75, 3.9375, 1181.25, 1.97, 3.15)",PASS
+V2 Cleaning sample purchases,valid,"35 clean rows, 5 rejected","35 clean rows, 5 rejected",PASS
+V3 Cement +15% price sensitivity,valid,increase = 210.65 (+/-0.50),increase = 210.65,PASS
+I1 Length = 0,invalid,ValueError raised,"ValueError: Dimensions (length, width, height) must be greater than zero.",PASS
+I2 Waste = 150 %,invalid,ValueError raised,ValueError: Waste percentage must be between 0 and 100.,PASS
+I3 Duplicate element ID E01,invalid,ValueError raised,ValueError: Duplicate record ID 'E01' is not allowed.,PASS
+I4 Purchase for unknown element E99,invalid,Rejected: Unknown element_id (1 valid row kept),"1 valid row, rejected reasons: ['Unknown element_id']",PASS

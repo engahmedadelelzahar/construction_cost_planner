@@ -1,0 +1,25 @@
+element_id,site,required_qty,material,unit,purchased_qty,variance,status
+E01,Site A,3.15,Aggregate,m3,3.35,0.2,Surplus
+E01,Site A,1181.25,Cement,kg,1040.0,-141.25,Shortage
+E01,Site A,1.97,Sand,m3,2.25,0.28,Surplus
+E02,Site A,0.4,Aggregate,m3,0.25,-0.15,Shortage
+E02,Site A,149.76,Cement,kg,70.0,-79.76,Shortage
+E02,Site A,0.25,Sand,m3,0.25,0.0,Surplus
+E03,Site A,0.76,Aggregate,m3,0.85,0.09,Surplus
+E03,Site A,283.5,Cement,kg,290.0,6.5,Surplus
+E03,Site A,0.47,Sand,m3,0.45,-0.02,Shortage
+E04,Site A,5.09,Aggregate,m3,4.15,-0.94,Shortage
+E04,Site A,1908.0,Cement,kg,2180.0,272.0,Surplus
+E04,Site A,3.18,Sand,m3,3.35,0.17,Surplus
+E05,Site B,5.29,Aggregate,m3,4.35,-0.94,Shortage
+E05,Site B,1984.5,Cement,kg,2040.0,55.5,Surplus
+E05,Site B,3.31,Sand,m3,3.5,0.19,Surplus
+E06,Site B,6.42,Aggregate,m3,5.65,-0.77,Shortage
+E06,Site B,2407.5,Cement,kg,1490.0,-917.5,Shortage
+E06,Site B,4.01,Sand,m3,4.6,0.59,Surplus
+E07,Site B,12.21,Aggregate,m3,12.6,0.39,Surplus
+E07,Site B,4579.2,Cement,kg,4030.0,-549.2,Shortage
+E07,Site B,7.63,Sand,m3,7.4,-0.23,Shortage
+E08,Site B,0.73,Aggregate,m3,0.6,-0.13,Shortage
+E08,Site B,273.0,Cement,kg,290.0,17.0,Surplus
+E08,Site B,0.46,Sand,m3,0.45,-0.01,Shortage
