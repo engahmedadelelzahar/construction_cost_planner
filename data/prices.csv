@@ -1,0 +1,7 @@
+supplier_id,material,unit,unit_price
+S01,Cement,kg,0.11
+S02,Cement,kg,0.12
+S01,Sand,m3,16.0
+S02,Sand,m3,14.5
+S01,Aggregate,m3,21.0
+S02,Aggregate,m3,23.5
